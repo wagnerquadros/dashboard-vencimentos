@@ -12,3 +12,5 @@ venv/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+# Dados locais
+dados/
